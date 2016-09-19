@@ -1,0 +1,22 @@
+{
+  "name": "mapIt",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Nicholas Ko <mailnickko@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Ji-Unit/map-it",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-ui-router": "^0.3.1"
+  }
+}
